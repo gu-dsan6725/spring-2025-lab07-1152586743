@@ -1,0 +1,24 @@
+input: I see a charge on my credit card statement but I paid on time, why?
+category: Below are banking-related instructions. Answer with the appropriate banking category.
+
+### Instruction:
+I see a charge on my credit card statement but I paid on time, why?
+
+### Response:
+0
+input: Do you have a branch in Timbuktu?
+category: Below are banking-related instructions. Answer with the appropriate banking category.
+
+### Instruction:
+Do you have a branch in Timbuktu?
+
+### Response:
+0
+input: I lost my card and my replacement card has not arrived.
+category: Below are banking-related instructions. Answer with the appropriate banking category.
+
+### Instruction:
+I lost my card and my replacement card has not arrived.
+
+### Response:
+0
